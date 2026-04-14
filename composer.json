@@ -1,0 +1,21 @@
+{
+    "name": "bjornbasar/karhu-view",
+    "description": "Template engine bridge for the karhu PHP microframework",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.3"
+    },
+    "suggest": {
+        "twig/twig": "For the Twig adapter",
+        "league/plates": "For the Plates adapter"
+    },
+    "autoload": {
+        "psr-4": {
+            "Karhu\\View\\": "src/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
