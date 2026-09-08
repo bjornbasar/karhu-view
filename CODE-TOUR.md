@@ -1,6 +1,6 @@
 # karhu-view + karhu-skeleton — Code Tour
 
-> A **reading-guide map** covering **two** small repos, and a **reference appendix** — outside the ten-tour sequence. Read [karhu](../karhu/CODE-TOUR.md) first. These are the smallest things in the workspace: a 3-file view bridge, and a starter app that is mostly *absence*. They're paired here because both answer the same question — **what does karhu deliberately not do?**
+> A **reading-guide map** covering **two** small repos, and a **reference appendix** — outside the eleven-tour sequence. Read [karhu](../karhu/CODE-TOUR.md) first. These are the smallest things in the workspace: a 3-file view bridge, and a starter app that is mostly *absence*. They're paired here because both answer the same question — **what does karhu deliberately not do?**
 >
 > **How to use it:** §1 the view bridge; §2 the skeleton; §3 what the emptiness teaches; §4 exercises. Fifteen minutes.
 
@@ -69,4 +69,4 @@ Put the three consumers side by side and the framework's shape becomes legible:
 
 ---
 
-*Tour covers karhu-view + karhu-skeleton @ `f665663`. A reference appendix — the ten-tour sequence ends at [koda-blast](../koda-blast/CODE-TOUR.md). Engine: [karhu](../karhu/CODE-TOUR.md). Siblings: [karhu-db](../karhu-db/CODE-TOUR.md), [karhu-queue](../karhu-queue/CODE-TOUR.md).*
+*Tour covers karhu-view + karhu-skeleton @ `f665663`. A reference appendix — the eleven-tour sequence ends at [karu](../karu/CODE-TOUR.md). Engine: [karhu](../karhu/CODE-TOUR.md). Siblings: [karhu-db](../karhu-db/CODE-TOUR.md), [karhu-queue](../karhu-queue/CODE-TOUR.md).*
