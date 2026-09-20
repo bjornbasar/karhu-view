@@ -69,4 +69,4 @@ Put the three consumers side by side and the framework's shape becomes legible:
 
 ---
 
-*Tour covers karhu-view + karhu-skeleton @ `f665663`. A reference appendix — the eleven-tour sequence ends at [karu](../karu/CODE-TOUR.md). Engine: [karhu](../karhu/CODE-TOUR.md). Siblings: [karhu-db](../karhu-db/CODE-TOUR.md), [karhu-queue](../karhu-queue/CODE-TOUR.md).*
+*Tour covers karhu-view + karhu-skeleton @ `b7a621d`. A reference appendix — the eleven-tour sequence ends at [karu](../karu/CODE-TOUR.md). Engine: [karhu](../karhu/CODE-TOUR.md). Siblings: [karhu-db](../karhu-db/CODE-TOUR.md), [karhu-queue](../karhu-queue/CODE-TOUR.md).*
